@@ -25,9 +25,12 @@ int main() {
 
 	Matrix d(3, 2);
 	cin >> d;
-	cout << d;
+	cout << d << endl;
 	//cout << (5.0 * a) << endl;
 	Matrix e(2, 2);
 	e = a * d;
 	cout << e << endl;
+
+	Matrix f(2, 3);
+	cout << 2 * f << endl;
 }
