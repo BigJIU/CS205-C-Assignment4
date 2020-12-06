@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/duaho/source/repos/Ass4/Ass4/CS205-C-Assignment4/head.h
+ostream
+-
+
+/cygdrive/c/Users/duaho/source/repos/Ass4/Ass4/CS205-C-Assignment4/main.cpp
+iostream
+-
+head.h
+/cygdrive/c/Users/duaho/source/repos/Ass4/Ass4/CS205-C-Assignment4/head.h
+
+/cygdrive/c/Users/duaho/source/repos/Ass4/Ass4/CS205-C-Assignment4/test.cpp
+
